@@ -13,7 +13,7 @@
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
-<h3 align="center">📊 Stats</h3>
+<h3 align="center">📊 Stats Advanced</h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
